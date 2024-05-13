@@ -3,3 +3,7 @@ nav, footer {
     color: white;
     padding: 10px;
 }
+footer p {
+    font-size: 20px;
+    margin: 20px auto;
+}
