@@ -1,3 +1,6 @@
+* {
+    border: 2px solid purple
+}
 nav, footer {
     background-color: steelblue;
     color: white;
@@ -10,4 +13,8 @@ footer p {
 a:hover {
     background-color: white;
     color: steelblue;
+}
+img {
+    width: 30%;
+    margin: 5%
 }
