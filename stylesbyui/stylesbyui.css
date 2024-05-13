@@ -18,3 +18,9 @@ img {
     width: 30%;
     margin: 5%
 }
+img {
+    width: 80%;
+}
+body {
+    text-align: center;
+}
