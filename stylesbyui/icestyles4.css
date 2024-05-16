@@ -4,6 +4,7 @@ body{
 }
 .top{
     color: white;
+    font-size: larger;
 }
 hi:hover{
     color:black
