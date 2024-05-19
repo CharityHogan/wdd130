@@ -1,3 +1,71 @@
-h1 {
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    width: 100%;
+    background-color: blueviolet;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.listings {
+    display: flex;
+    align-items: center;
+}
+
+.listings a {
+    margin: 0 15px;
+    color: white;
+    text-decoration: none;
+}
+
+main {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.Hero-banner {
+    margin: 20px 0;
+}
+
+.card {
+    margin: 20px 0;
+}
+
+footer {
+    width: 100%;
+    background-color: blueviolet;
+    padding: 10px;
+}
+
+.footer-card {
+    margin: 10px 0;
+}
+
+.Social {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.Social a {
+    margin: 0 10px;
+}
+
+.logo-img {
+    width: 100px;
 }
