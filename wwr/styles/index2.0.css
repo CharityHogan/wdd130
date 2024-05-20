@@ -22,6 +22,7 @@ nav {
 .listings {
     display: flex;
     align-items: center;
+    text-decoration: none;
 }
 
 .listings a {
@@ -44,6 +45,7 @@ main {
 
 .card {
     margin: 20px 0;
+    text-decoration: none;
 }
 
 footer {
@@ -53,7 +55,9 @@ footer {
 }
 
 .footer-card {
+    background-color: blueviolet;
     margin: 10px 0;
+    
 }
 
 .Social {
@@ -68,4 +72,7 @@ footer {
 
 .logo-img {
     width: 100px;
+}
+.eeee {
+    background-color: blueviolet;
 }
