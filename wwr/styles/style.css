@@ -9,7 +9,7 @@ body {
 
 header {
     width: 100%;
-    background-color: blueviolet;
+    background-color: #e7c6ff;
 }
 
 nav {
@@ -50,12 +50,12 @@ main {
 
 footer {
     width: 100%;
-    background-color: blueviolet;
+    background-color: #e7c6ff;
     padding: 10px;
 }
 
 .footer-card {
-    background-color: blueviolet;
+    background-color: #e7c6ff;
     margin: 10px 0;
     
 }
@@ -74,5 +74,5 @@ footer {
     width: 100px;
 }
 .eeee {
-    background-color: blueviolet;
+    background-color: #e7c6ff;
 }
