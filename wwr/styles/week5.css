@@ -11,8 +11,8 @@ div.topbanner img{
     text-align: center;
 }
 div.circleimages img{
-    border: 10px solid black;
-    margin: 5% 2.5%;
+    border: 15px solid rgb(46, 46, 46);
+    margin: 5% 5%;
     border-radius: 100%;
 }
 div.circleimages{
