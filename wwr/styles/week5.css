@@ -1,7 +1,22 @@
+body{
+    margin: 0%;
+    background-color: gray;
+}
 div.topbanner img{
+    
     margin: 0%;
 }
 
+.circleimages{
+    text-align: center;
+}
 div.circleimages img{
-    border-radius: 50%;
+    border: 10px solid black;
+    margin: 5% 2.5%;
+    border-radius: 100%;
+}
+div.circleimages{
+    background-color: gray;
+    margin: 0%;
+    padding: 25px 50px;
 }
