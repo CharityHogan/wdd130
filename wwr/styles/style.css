@@ -18,7 +18,9 @@ nav {
     align-items: center;
     padding: 10px;
 }
-
+.listings img{
+    border-radius: 100%;
+}
 .listings {
     display: flex;
     align-items: center;
@@ -38,7 +40,9 @@ main {
     align-items: center;
     text-align: center;
 }
-
+div.Hero-banner img{
+    margin: 0%;
+}
 .Hero-banner {
     margin: 20px 0;
 }
@@ -49,14 +53,16 @@ main {
 }
 
 footer {
-    width: 100%;
+    width:100%;
     background-color: #e7c6ff;
     padding: 10px;
 }
-
+div.footer-card h3{
+    color: black;
+}
 .footer-card {
     background-color: #e7c6ff;
-    margin: 10px 0;
+    margin: 100%;
     
 }
 
@@ -75,4 +81,5 @@ footer {
 }
 .eeee {
     background-color: #e7c6ff;
+    padding: 25px 50px;
 }
