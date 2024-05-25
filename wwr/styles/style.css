@@ -1,3 +1,6 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap');
+
 body {
     display: flex;
     flex-direction: column;
@@ -46,7 +49,10 @@ div.Hero-banner img{
 .Hero-banner {
     margin: 20px 0;
 }
-
+.card img {
+    border: 15px solid #e7c6ff;
+    margin: 5% 5%;
+}
 .card {
     margin: 20px 0;
     text-decoration: none;
@@ -71,7 +77,10 @@ div.footer p {
 }
 
 .Social a {
-    margin: 0 10px;
+    margin: 0%;
+    background-color: #e7c6ff;
+    padding-left: 100px;
+    padding-right: 100px;
     
 }
 
@@ -82,6 +91,12 @@ div.footer p {
     background-color: #e7c6ff;
     padding: 25px 50px;
 }
-.text3 {
-    
+.text3 p {
+    margin: 0%;
+    padding-left: 700px;
+    padding-right: 700px;
+    background-color: #e7c6ff;
+}
+.card {
+    text-decoration: none;
 }
