@@ -1,0 +1,90 @@
+body {
+    color: antiquewhite;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    width: 100%;
+    background-color: #e7c6ff;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+.listings img{
+    border-radius: 100%;
+}
+.listings {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.listings a {
+    margin: 0 15px;
+    color: white;
+    text-decoration: none;
+}
+
+main {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+div.Hero-banner img{
+    margin: 0%;
+}
+.Hero-banner {
+    margin: 20px 0;
+}
+
+.card {
+    margin: 20px 0;
+    text-decoration: none;
+}
+
+footer {
+    width:100%;
+    background-color: #e7c6ff;
+    padding: 10px;
+}
+div.footer-card h3{
+    color: black;
+}
+.footer-card {
+    background-color: #e7c6ff;
+    margin: 100%;
+    
+}
+div.footer p {
+    color: black;
+}
+
+.Social {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.Social a {
+    margin: 0 10px;
+    
+}
+
+.logo-img {
+    width: 100px;
+}
+.eeee {
+    background-color: #e7c6ff;
+    padding: 25px 50px;
+}
