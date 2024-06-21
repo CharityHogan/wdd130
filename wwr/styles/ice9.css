@@ -1,3 +1,4 @@
+
 body {
     background-color: black;
     display: grid;
@@ -26,10 +27,12 @@ body {
     grid-row: 2;
 }
 .minitext {
+    color: rgb(59, 59, 149);
     grid-row: 1;
     text-align: center;
 }
 .title {
+    font-family:Arial, Helvetica, sans-serif ;
     grid-row: 2;
     text-align: center;
 }
